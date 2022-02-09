@@ -1,2 +1,3 @@
 # VirtualDOM
-Created with CodeSandbox
+
+An attempt to build a simple Virtual DOM from scratch.
